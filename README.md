@@ -1,2 +1,2 @@
 # Small-Projects
-There are my project practicing html
+These are my projects practicing html
